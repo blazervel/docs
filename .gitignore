@@ -2,6 +2,7 @@
 /public/hot
 /public/storage
 /public/css
+/public/build
 /public/js
 /storage/*.key
 /vendor
@@ -15,4 +16,7 @@ yarn-error.log
 /.idea
 /.vscode
 .DS_Store
-composer.dev*
+rr
+.rr.yaml
+/packages
+/composer.dev*
